@@ -15,3 +15,5 @@ JSON stands for JavaScript Object Notation and it’s a lightweight format for s
 ## Execution Steps for Run this script
  * Clone this repository in your system.
  * Run the script for each operations.
+
+For better understading, please refer to the blog https://blog.knoldus.com/data-driven-testing-using-json/
